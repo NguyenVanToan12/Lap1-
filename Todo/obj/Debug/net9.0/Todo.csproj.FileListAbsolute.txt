@@ -1,0 +1,4 @@
+D:\KTTKPM\Todo\obj\Debug\net9.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+D:\KTTKPM\Todo\obj\Debug\net9.0\Todo.AssemblyInfoInputs.cache
+D:\KTTKPM\Todo\obj\Debug\net9.0\Todo.AssemblyInfo.cs
+D:\KTTKPM\Todo\obj\Debug\net9.0\Todo.csproj.CoreCompileInputs.cache
